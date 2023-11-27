@@ -10,7 +10,7 @@ openupm add net.tnrd.lidgren
 
 3. Installing from git through the package manager by clicking the + icon and then selecting 'Add package from git URL...'
 
-
+![image](https://github.com/Thundernerd/Unity3D-Lidgren/assets/5531467/766b96eb-e12a-466f-9057-98360dad52bf)
 
 and using the following url: `https://github.com/Thundernerd/Unity3D-Lidgren.git`
 
