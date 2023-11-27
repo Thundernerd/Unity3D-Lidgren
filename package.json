@@ -1,0 +1,9 @@
+{
+	"name": "net.tnrd.lidgren",
+	"displayName": "Lidgren",
+	"version": "1.0.0",
+	"author": {
+		"name":"TNRD",
+		"url": "https://www.tnrd.net"
+	}
+}
